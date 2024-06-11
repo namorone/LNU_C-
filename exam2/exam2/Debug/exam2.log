@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\exam2\exam2\Source.cpp(22,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\user\source\repos\exam2\exam2\Source.cpp(24,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  exam2.vcxproj -> C:\Users\user\source\repos\exam2\Debug\exam2.exe

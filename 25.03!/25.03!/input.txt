@@ -1,0 +1,10 @@
+tree justree 0
+tree superTree 1
+moss arfulmoss 0
+moss ssom 0
+insect bee 0
+insect megabutterfly 1
+insect commonfly 0
+tree oak 0
+bird smallbird 1
+bird pinkparrot 1

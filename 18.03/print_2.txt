@@ -1,0 +1,10 @@
+		0
+		0
+		0
+athe_first	samsung	1600
+athe_first	samsung	2200
+bthe_third	lenovo	27500
+bthe_third	lenovo	25800
+bthe_third	lenovo	55800
+cthe_second	boshch	5500
+cthe_second	boshch	6500
