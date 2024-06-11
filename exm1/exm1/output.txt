@@ -1,0 +1,12 @@
+Flying apparats than can be on 32 height:
+air_bubble 32 60 
+plane 32 160 
+Time for every plane:
+plane 40 120 
+For plane with 120 speed, time from Kyiv to Lviv = 5 hours
+plane 32 160 
+For plane with 160 speed, time from Kyiv to Lviv = 3.75 hours
+plane 20 30 
+For plane with 30 speed, time from Kyiv to Lviv = 20 hours
+plane 20 500 
+For plane with 500 speed, time from Kyiv to Lviv = 1.2 hours

@@ -1,0 +1,30 @@
+	Sorted by the names(2nd column):
+moss arfulmoss 0
+insect bee 0
+insect commonfly 0
+tree justree 0
+insect megabutterfly 1
+tree oak 0
+bird pinkparrot 1
+bird smallbird 1
+moss ssom 0
+tree superTree 1
+
+	Animals: bird(2), insect(3), :
+bird pinkparrot 1
+bird smallbird 1
+insect megabutterfly 1
+insect bee 0
+insect commonfly 0
+	Plants: moss(2), tree(3), :
+moss arfulmoss 0
+moss ssom 0
+tree oak 0
+tree justree 0
+tree superTree 1
+
+	Red book species(3rd column):
+bird pinkparrot 1
+bird smallbird 1
+insect megabutterfly 1
+tree superTree 1

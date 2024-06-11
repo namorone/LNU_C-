@@ -1,0 +1,7 @@
+plane 40 120
+air_bubble 32 60
+air_bubble 52 150
+plane 32 160
+air_bubble 65 20
+plane 20 30
+plane 20 500
